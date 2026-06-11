@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="poi_search_categories">
+        <item>Farmácia</item>
+        <item>Hospital</item>
+        <item>Escola</item>
+        <item>Restaurante</item>
+        <item>Praça</item>
+        <item>Mercado</item>
+    </string-array>
+
+    <string-array name="user_saved_categories">
+        <item>Estudo</item>
+        <item>Saúde</item>
+        <item>Lazer</item>
+        <item>Alimentação</item>
+        <item>Compras</item>
+        <item>Outros</item>
+    </string-array>
+</resources>
