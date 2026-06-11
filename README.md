@@ -1,2 +1,3 @@
-# App_AF_GPS_Localização
-
+# Integrantes
+Victor dos Santos Ferreira - 248421
+Vinicius Reimberg Mariozi - 248457
